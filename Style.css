@@ -74,4 +74,17 @@ ul.topnav-left li.dropdownIcon {
    }
 }
 
+ul.topnav-left.respond {
+  position: relative;
+}
+
+ul.topnav-left.respond li {
+  display: inline;
+  float: none;
+}
+
+ul.topnav-left.respond li a {
+  display: block;
+}
+
 }
