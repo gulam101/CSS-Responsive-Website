@@ -65,6 +65,11 @@ ul.topnav-left li.dropdownIcon {
 
   /*This then tells searches the parent class and finds the child class and
    display the hambuger menu*/
+
+   ul.topnav-left li.dropdownIcon {
+     /*Easy to postion elements*/
+     display: block;
+   }
 }
 
 }
