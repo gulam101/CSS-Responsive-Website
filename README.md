@@ -46,6 +46,7 @@
 - https://unicode-table.com/en/2630/ (Unicode)
 - https://fonts.google.com/specimen/Open+Sans (Google Font)
 - https://www.w3schools.com/js/
+- https://www.css3maker.com/css-3-rgba.html
 
 ### Screenshots:
 
