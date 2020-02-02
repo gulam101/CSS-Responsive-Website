@@ -18,7 +18,7 @@ nav {
 }
 
 nav ul {
-  background-color: #eee;
+  background-color: #FF8C00;
   overflow: hidden;
   margin: 0;
   padding: 0;
@@ -40,13 +40,14 @@ ul.topnav-left li a {
   text-decoration: none;
   text-align: center;
   text-transform: uppercase;
-  color: #666;
+  color: black;
 }
 
   /*Hover over navbar animation*/
 
 ul.topnav-left a:hover {
-    color: black;
+  transition: 0.3s;
+    color: white;
   }
 
 }
