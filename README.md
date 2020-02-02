@@ -36,6 +36,7 @@
 - https://atom.io/ (IDE)
 - https://www.w3schools.com/html/default.asp
 - https://www.w3schools.com/css/default.asp
+- Any Modern Browser
 
 ### Screenshots:
 
