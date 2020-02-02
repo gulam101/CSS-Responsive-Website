@@ -26,7 +26,7 @@
 ### Description:
 
 ### Prerequisites:
-- Any Modern Browser (Prefably Chrome or Firefox)
+- Any Modern Browser (Preferably Chrome or Firefox)
 
 ### What I Learnt:
 
