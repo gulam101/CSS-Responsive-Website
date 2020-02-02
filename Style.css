@@ -19,4 +19,5 @@ nav {
 
 nav ul {
   background-color: #eee;
+  overflow: hidden;
 }
