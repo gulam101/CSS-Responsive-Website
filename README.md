@@ -28,6 +28,7 @@
 ### Prerequisites:
 - Any Modern Browser (Preferably Chrome or Firefox)
 - Any IDE to view code (Preferably Atom or Brackets)
+- Access to developer tools on web browser
 
 ### What I Learnt:
 
