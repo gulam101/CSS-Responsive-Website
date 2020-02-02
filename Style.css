@@ -13,6 +13,14 @@ body {
 
 .container {
   width: 100%;
+  margin: auto;
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+
+/* Nackground color */
+.con-background {
+  background-color: grey;
 }
 
 
