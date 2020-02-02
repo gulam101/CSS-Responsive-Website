@@ -1,7 +1,8 @@
 # CSS-Website
-# Responsive Website
 
-### Table of Contents:
+### Responsive Website
+
+# Table of Contents:
 
 [Description](#Description)  
 <a name="Description"/>
