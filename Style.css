@@ -46,7 +46,7 @@ ul.topnav-left li a {
   /*Hover over navbar animation*/
 
 ul.topnav-left a:hover {
-    color: white;
+    color: black;
   }
 
 }
