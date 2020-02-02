@@ -20,12 +20,20 @@ body {
 
 /* Background color */
 #con-background {
-  background-image: linear-gradient(to right, rgba(47, 49, 44, 0.9), rgba(84, 196, 181, 0.9));
+  background-image: linear-gradient(to right,s rgba(47, 49, 44, 0.9), rgba(84, 196, 181, 0.9));
 }
 
 .row {
   width: 100%;
   display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.row::after {
+  display: table;
+  clear: both;
+  content: "";
 }
 
 
