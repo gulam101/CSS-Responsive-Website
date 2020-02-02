@@ -37,6 +37,7 @@
 - https://www.w3schools.com/html/default.asp (For help)
 - https://www.w3schools.com/css/default.asp (For help)
 - Any Modern Browser (Load website)
+- https://unicode-table.com/en/2630/ (Unicode)
 
 ### Screenshots:
 
