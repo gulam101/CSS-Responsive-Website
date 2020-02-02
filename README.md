@@ -13,14 +13,6 @@
 [What I learnt](#What_I_Learnt)  
 <a name="What_I_Learnt"/>
 
-[Setup](#Setup)  
-<a name="Setup"/>
-
-[Test Cases](#Test_Cases)  
-<a name="Test_Cases"/>
-
-[Development Changes](#Development_Changes)  
-<a name="Development_Changes"/>
 
 [Resources](#Resources)  
 <a name="Resources"/>
@@ -30,6 +22,16 @@
 
 [Credits](#Credits)  
 <a name="Credits"/>
+
+### Description:
+
+### Prerequisites:
+
+### What I Learnt:
+
+### Constraints:
+
+### Improvements:
 
 ### Resources:
 - https://www.youtube.com/watch?v=kPPit1B3h6g&list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz&index=23 (Tutorial)
