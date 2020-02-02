@@ -69,6 +69,7 @@ ul.topnav-left li.dropdownIcon {
    ul.topnav-left li.dropdownIcon {
      /*Easy to postion elements*/
      display: block;
+     /*Overides the float from before*/
      float: right;
    }
 }
