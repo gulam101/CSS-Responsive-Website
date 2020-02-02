@@ -34,8 +34,8 @@
 ### Resources:
 - https://www.youtube.com/watch?v=kPPit1B3h6g&list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz&index=23 (Tutorial)
 - https://atom.io/ (IDE)
-- https://www.w3schools.com/html/default.asp
-- https://www.w3schools.com/css/default.asp
+- https://www.w3schools.com/html/default.asp (For help)
+- https://www.w3schools.com/css/default.asp (For help)
 - Any Modern Browser
 
 ### Screenshots:
