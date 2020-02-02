@@ -27,7 +27,7 @@
 
 ### Prerequisites:
 - Any Modern Browser (Preferably Chrome or Firefox)
-- Any IDE (Preferably Atom or Brackets)
+- Any IDE to view code (Preferably Atom or Brackets)
 
 ### What I Learnt:
 
