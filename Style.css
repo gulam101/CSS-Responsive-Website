@@ -27,6 +27,7 @@ nav ul {
 ul.topnav-left li {
   list-style: none;
   float: left;
+  min-height: 16px;
   padding: 14px;
 }
 
