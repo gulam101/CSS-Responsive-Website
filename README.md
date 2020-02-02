@@ -23,15 +23,15 @@
 [Credits](#Credits)  
 <a name="Credits"/>
 
-### Description
+### Description:
 
-### Prerequisites
+### Prerequisites:
 
-### What I Learnt
+### What I Learnt:
 
-### Constraints
+### Constraints:
 
-### Improvements
+### Improvements:
 
 ### Resources:
 - https://www.youtube.com/watch?v=kPPit1B3h6g&list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz&index=23 (Tutorial)
