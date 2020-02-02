@@ -2,11 +2,13 @@
 
 nav, header, footer {
   display: block;
+  font-family: 'Open Sans', sans-serif;
 }
 
 body {
   line-height: 1;
   margin: 0;
+  font-family: 'Open Sans', sans-serif;
 }
 
 
