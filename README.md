@@ -31,7 +31,7 @@
 [Credits](#Credits)  
 <a name="Credits"/>
 
-### Resources;
+### Resources:
 
 ### Screenshots:
 
