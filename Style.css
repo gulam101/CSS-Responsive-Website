@@ -50,4 +50,8 @@ ul.topnav-left a:hover {
     color: white;
   }
 
+ul.topnav-left li.dropdownIcon {
+  display: none;
+}
+
 }
