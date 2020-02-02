@@ -46,7 +46,7 @@
 - https://unicode-table.com/en/2630/ (Unicode)
 - https://fonts.google.com/specimen/Open+Sans (Google Font)
 - https://www.w3schools.com/js/ (For help)
-- https://www.css3maker.com/css-3-rgba.html
+- https://www.css3maker.com/css-3-rgba.html (For gradient colour)
 
 ### Screenshots:
 
