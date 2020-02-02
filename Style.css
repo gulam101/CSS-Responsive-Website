@@ -36,4 +36,5 @@ ul.topnav-left li.top-right {
 ul.topnav-left li a {
   display: block;
   text-decoration: none;
+  font-size: 20px;
 }
