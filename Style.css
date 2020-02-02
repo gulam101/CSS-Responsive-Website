@@ -27,6 +27,7 @@ nav ul {
 ul.topnav-left li {
   list-style: none;
   float: left;
+  padding: 14px;
 }
 
 ul.topnav-left li.top-right {
@@ -36,5 +37,6 @@ ul.topnav-left li.top-right {
 ul.topnav-left li a {
   display: block;
   text-decoration: none;
-  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
 }
