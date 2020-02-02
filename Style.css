@@ -57,5 +57,10 @@ ul.topnav-left li.dropdownIcon {
 }
 
 /*mobile*/
+@media screen and (max-width: 680px) {
+  ul.topnav-left li {
+    display: none;
+  }
+}
 
 }
