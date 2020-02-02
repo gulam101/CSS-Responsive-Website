@@ -40,4 +40,13 @@ ul.topnav-left li a {
   text-decoration: none;
   text-align: center;
   text-transform: uppercase;
+  color: #666;
+
+  /*Hover over navbar animation*/
+
+  navbar li a:hover {
+    background-color: #111;
+    color: yellow;
+  }
+
 }
