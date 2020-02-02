@@ -1,2 +1,2 @@
 # CSS-Website
-Using HTML and CSS only
+# Responsive Website
