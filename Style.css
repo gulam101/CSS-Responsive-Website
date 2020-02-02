@@ -20,4 +20,6 @@ nav {
 nav ul {
   background-color: #eee;
   overflow: hidden;
+  margin: 0;
+  padding: 0;
 }
