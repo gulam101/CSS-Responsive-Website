@@ -23,7 +23,9 @@ body {
   background-image: linear-gradient(to right, rgba(47, 49, 44, 0.9), rgba(84, 196, 181, 0.9));
 }
 
-
+.row {
+  width: 100%;
+}
 
 
 /*Nav Bar*/
