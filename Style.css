@@ -85,6 +85,7 @@ ul.topnav-left.respond li {
 
 ul.topnav-left.respond li a {
   display: block;
+  text-align: left;
 }
 
 }
