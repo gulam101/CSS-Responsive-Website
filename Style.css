@@ -19,7 +19,8 @@ body {
 }
 
 /* Background color */
-.con-background {
+#con-background {
+  padding-bottom: 16px;
   background-color: grey;
 }
 
