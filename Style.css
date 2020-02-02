@@ -45,7 +45,7 @@ ul.topnav-left li a {
   color: black;
 }
 
-  /*Hover over navbar animation*/
+  /* Hover over navbar animation */
 
 ul.topnav-left a:hover {
   transition: 0.3s;
@@ -58,18 +58,18 @@ ul.topnav-left li.dropdownIcon {
 
 /*mobile*/
 @media screen and (max-width: 680px) {
-/*This is telling the brwoser to display nothing expect the child number of 1*/
+/* This is telling the brwoser to display nothing expect the child number of 1 */
   ul.topnav-left li:not(:nth-child(1)) {
     display: none;
   }
 
-  /*This then tells searches the parent class and finds the child class and
-   display the hambuger menu*/
+  /* This then tells searches the parent class and finds the child class and
+   display the hambuger menu */
 
    ul.topnav-left li.dropdownIcon {
-     /*Easy to postion elements*/
+     /* Easy to postion elements */
      display: block;
-     /*Overides the float from before*/
+     /* Overides the float from before */
      float: right;
    }
 }
