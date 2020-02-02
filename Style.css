@@ -58,9 +58,13 @@ ul.topnav-left li.dropdownIcon {
 
 /*mobile*/
 @media screen and (max-width: 680px) {
-  ul.topnav-left li {
+/*This is telling the brwoser to display nothing expect the child number of 1*/
+  ul.topnav-left li:not(:nth-child(1)) {
     display: none;
   }
+
+  /*This then tells searches the parent class and finds the child class and
+   display the hambuger menu*/
 }
 
 }
