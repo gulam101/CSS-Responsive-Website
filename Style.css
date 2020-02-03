@@ -18,6 +18,8 @@ body {
   padding-bottom: 4%;
 }
 
+
+
 /* Background color */
 #con-background {
   background-image: linear-gradient(to right, rgba(47, 49, 44, 0.9), rgba(84, 196, 181, 0.9));
@@ -198,8 +200,16 @@ input[type="text"] {
   width: 350px;
 }
 
+/* Stops video from overflowing */
+.videoContainer, iframe {
+  position: relative;
+  width: 100%;
+}
+
 
   }
+
+  /* End of mobile */
 
 
     }
