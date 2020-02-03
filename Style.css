@@ -177,6 +177,7 @@ div.box {
   margin: 24px;
   /*Top Left Bottom Right*/
   padding: 36px 24px 40px 24px;
+  border-radius: 7px;
   background-color: #fff;
   box-shadow: 0 0 0 1px rgba(0,0,0.15),
   0 2px 3px 0 rgba(0,0,0,.1);
@@ -226,16 +227,21 @@ ul.topnav.respond li a {
   }
 
 /* Stops video from overlapping other elements in the container */
-.col-6 {
+.col-6,
+.col-4 {
   width: 100%;
   margin: 0;
   padding-top: 16px;
 }
 
+div.box {
+  padding: 5px;
+  display: block;
+}
+
 div.leftside-col,
 div.rightSide-col {
   margin: 15px;
-
 }
 
 input[type="text"] {
