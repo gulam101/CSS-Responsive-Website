@@ -275,7 +275,9 @@ ul.topnav.respond li a {
   text-align: center;
   }
 
-
+article p {
+  font-size: 25px;
+}
 
 /* Stops video from overlapping other elements in the container */
 .col-7,
