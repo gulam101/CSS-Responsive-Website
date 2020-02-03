@@ -46,7 +46,20 @@ input[type="text"] {
   font-size: 20px;
   width: 400px;
   min-width: 100px;
+  padding: 5px;
 }
+
+/* Form Style */
+form h2 {
+    color: #fff;
+  }
+
+form h2:hover {
+  color: black;
+  transition: 0.3s;
+}
+
+/* End */
 
 .row {
   width: 100%;
