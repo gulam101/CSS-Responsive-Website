@@ -139,7 +139,8 @@ div.test-image img {
   padding-left: 65px;
   /* Horizontal, Vertica,l Blur, and Spread */
   box-shadow: -2px /*H*/ -2px /*V*/ 5px /*B*/ 2px /*S*/
-  rgba(0/*Sh*/,0/*BG*/,0/*BX*/,.15/*Op*/);
+  rgba(0/*Sh*/,0/*BG*/,0/*BX*/,.15/*Op*/), 2px 2px 4px 20px
+  rgba(0,0,0,1);
 }
 
 /* End of IOS logo icon */
