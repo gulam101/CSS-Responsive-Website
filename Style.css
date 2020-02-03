@@ -110,6 +110,12 @@ form h2:hover {
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
 
+
+/* Selects all the elemnts on the page */
+* {
+  box-sizing: border-box;
+}
+
 /*Nav Bar*/
 
 nav {
