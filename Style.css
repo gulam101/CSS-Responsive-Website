@@ -278,6 +278,7 @@ ul.topnav.respond li a {
 
 
 /* Stops video from overlapping other elements in the container */
+.col-7,
 .col-6,
 .col-4 {
   width: 100%;
