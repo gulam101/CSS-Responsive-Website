@@ -53,6 +53,8 @@
 - https://www.css3maker.com/css-3-rgba.html (For gradient colour)
 - https://www.youtube.com/watch?v=wwDAvq9MZlQ (Random video)
 - https://www.cssmatic.com/box-shadow (CSS Shadow generator)
+- Google Images (For images)
+- https://www.lipsum.com/ (Dummy test)
 
 ### Screenshots:
 
