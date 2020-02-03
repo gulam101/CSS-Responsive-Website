@@ -11,6 +11,12 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
+/* Bolds text for chat with me */
+label {
+  font-size: 35px;
+  font-weight: 900;
+}
+
 .container {
   width: 100%;
   margin: auto;
