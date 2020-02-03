@@ -64,4 +64,3 @@ Improvements (placeholder)
 ### Credits:
 - WB Web Development Solutions (Tutorial)
 - Gulam Qasim (Added my own features)
-- Devslopes (Random video)
