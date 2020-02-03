@@ -136,6 +136,11 @@ footer.navbar-footer {
   background-color: #666;
 }
 
+footer.navbar-footer {
+  color: #fff;
+  font-size: 35px;
+}
+
 
 /* IOS icon logo */
 div.test-image img {
