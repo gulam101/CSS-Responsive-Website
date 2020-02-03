@@ -123,7 +123,7 @@ button.learnMore {
 
 button:hover {
   background-color: black;
-  color: white;
+  color: #0069ff;
   transition: 0.5s;
 }
 
