@@ -118,7 +118,6 @@ button {
 button.learnMore {
   display: block;
   margin: auto;
-
 }
 
 button:hover {
@@ -132,11 +131,12 @@ button:hover {
 
 
 /* IOS icon logo */
-div.iosIcon {
+div.iosIcon img {
   display: block;
   margin: auto;
-  padding-bottom: 15px;
 }
+
+/* End of IOS logo icon */
 
 /* For columns */
 .col-1 {width: 8.33%;}
