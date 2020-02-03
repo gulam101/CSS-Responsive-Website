@@ -17,14 +17,17 @@ label {
   font-weight: 900;
 }
 
+p {
+  font-size: 27px;
+  line-height: 1.2;
+}
+
 .container {
   width: 100%;
   margin: auto;
   padding-top: 4%;
   padding-bottom: 4%;
 }
-
-
 
 /* Background color */
 #con-background {
@@ -160,6 +163,7 @@ h1.section2Header {
   }
 
 div.box {
+  text-align: center;
   background-color: #fff;
   box-shadow: 0 0 0 1px rgba(0,0,0.15),
   0 2px 3px 0 rgba(0,0,0,.1);
