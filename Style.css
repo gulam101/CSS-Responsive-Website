@@ -141,6 +141,11 @@ footer.navbar-footer h1 {
   font-size: 36px;
 }
 
+footer.navbar-footer ul {
+  list-style: none;
+  text-align: left;
+}
+
 
 /* End Footer */
 
