@@ -131,9 +131,13 @@ button:hover {
 
 
 /* IOS icon logo */
-div.iosIcon img {
+div.test-image img {
   display: block;
   margin: auto;
+  /* Quick solution to fix image not centering */
+  padding-bottom: 35px;
+  padding-left: 65px;
+  box-shadow: -2px -2px;
 }
 
 /* End of IOS logo icon */
