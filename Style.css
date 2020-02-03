@@ -130,6 +130,14 @@ button:hover {
 
 /* End of button design */
 
+
+/* IOS icon logo */
+div.iosIcon {
+  display: block;
+  margin: auto;
+  padding-bottom: 15px;
+}
+
 /* For columns */
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
