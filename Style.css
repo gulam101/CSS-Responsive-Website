@@ -32,6 +32,10 @@ body {
   margin-left: 30%
 }
 
+div.rightSide-col {
+  margin-left: 15%;
+}
+
 h1.title {
   color: #fff;
   font-size: 50px;
