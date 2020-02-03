@@ -130,6 +130,13 @@ button:hover {
 /* End of button design */
 
 
+/* Footer */
+
+footer.navbar-footer {
+  background-color: #666;
+}
+
+
 /* IOS icon logo */
 div.test-image img {
   display: block;
