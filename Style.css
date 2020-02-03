@@ -75,18 +75,18 @@ nav ul {
   padding: 0;
   }
 
-ul.topnav-left li {
+ul.topnav li {
   list-style: none;
   float: left;
   min-height: 16px;
   padding: 14px;
   }
 
-ul.topnav-left li.top-right {
+ul.topnav li.top-right {
   float: right;
   }
 
-ul.topnav-left li a {
+ul.topnav li a {
   display: block;
   text-decoration: none;
   text-align: center;
@@ -96,26 +96,26 @@ ul.topnav-left li a {
 
   /* Hover over navbar animation */
 
-ul.topnav-left a:hover {
+ul.topnav a:hover {
   transition: 0.3s;
     color: white;
   }
 
-ul.topnav-left li.dropdownIcon {
+ul.topnav li.dropdownIcon {
   display: none;
   }
 
 /*mobile*/
 @media screen and (max-width: 680px) {
 /* This is telling the brwoser to display nothing expect the child number of 1 */
-  ul.topnav-left li:not(:nth-child(1)) {
+  ul.topnav li:not(:nth-child(1)) {
     display: none;
   }
 
   /* This then tells searches the parent class and finds the child class and
    display the hambuger menu */
 
-   ul.topnav-left li.dropdownIcon {
+   ul.topnav li.dropdownIcon {
      /* Easy to postion elements */
      display: block;
      /* Overides the float from before */
@@ -123,22 +123,22 @@ ul.topnav-left li.dropdownIcon {
    }
 }
 
-ul.topnav-left.respond li.dropdownIcon {
+ul.topnav.respond li.dropdownIcon {
   position: absolute;
   top: 0;
   right: 0;
   }
 
-ul.topnav-left.respond {
+ul.topnav.respond {
   position: relative;
   }
 
-ul.topnav-left.respond li {
+ul.topnav.respond li {
   display: inline;
   float: none;
   }
 
-ul.topnav-left.respond li a {
+ul.topnav.respond li a {
   display: block;
   text-align: center;
   }
