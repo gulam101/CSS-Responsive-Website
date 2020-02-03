@@ -32,6 +32,10 @@
 - Access to developer tools on web browser
 
 ### What I Learnt:
+- Using Input keyword in CSS
+- Different ways of creating animations in CSS
+- Understanding Unicode
+- JavaScript (Hamburger menu icon)
 
 ### Constraints:
 
