@@ -204,6 +204,9 @@ input[type="text"] {
 .videoContainer, iframe {
   position: relative;
   width: 100%;
+  margin: 0;
+  /* Clips the content and stops the user from scrolling */
+  overflow: hidden;
 }
 
 
