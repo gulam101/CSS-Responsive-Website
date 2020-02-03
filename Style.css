@@ -136,9 +136,9 @@ footer.navbar-footer {
   background-color: #666;
 }
 
-footer.navbar-footer {
+footer.navbar-footer h1 {
   color: #fff;
-  font-size: 21px;
+  font-size: 36px;
 }
 
 
