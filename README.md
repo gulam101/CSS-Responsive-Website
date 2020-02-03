@@ -13,9 +13,9 @@
 [What I learnt](#What_I_Learnt)  
 <a name="What_I_Learnt"/>
 
-Constraints
+Constraints (placeholder)
 
-Improvements 
+Improvements (placeholder)
 
 [Resources](#Resources)  
 <a name="Resources"/>
