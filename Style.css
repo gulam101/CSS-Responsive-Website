@@ -294,6 +294,12 @@ div.box {
   display: block;
 }
 
+div.test-image {
+  width: 100%;
+  /* Stops it from being placed straught to the left */
+  padding-left: 25px;
+}
+
 div.leftside-col,
 div.rightSide-col {
   margin: 15px;
