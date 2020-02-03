@@ -34,8 +34,9 @@ h1.title {
   line-height: 70px;
 }
 
-.color {
+h1.title:hover {
   color: black;
+  transition: 0.5s;
 }
 
 /* End of background color */
