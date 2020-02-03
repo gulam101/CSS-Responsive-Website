@@ -38,6 +38,16 @@ h1.title {
   color: black;
 }
 
+/* End of background color */
+
+
+/* Used as a specific way to give details to the input field for different ones */
+input[type="text"] {
+  font-size: 20px;
+  width: 400px;
+  min-width: 100px;
+}
+
 .row {
   width: 100%;
   display: flex;
