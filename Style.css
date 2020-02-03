@@ -158,7 +158,7 @@ ul.topnav li.dropdownIcon {
      /* Overides the float from before */
      float: right;
    }
-}
+
 
 ul.topnav.respond li.dropdownIcon {
   position: absolute;
@@ -180,4 +180,25 @@ ul.topnav.respond li a {
   text-align: center;
   }
 
+/* Stops video from overlapping other elements in the container */
+.col-6 {
+  width: 100%;
+  margin: 0;
+  padding-top: 16px;
 }
+
+div.leftside-col,
+div.rightSide-col {
+  margin: 15px;
+
+}
+
+input[type="text"] {
+  width: 350px;
+}
+
+
+  }
+
+
+    }
