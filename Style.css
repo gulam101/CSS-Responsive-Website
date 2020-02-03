@@ -101,6 +101,8 @@ form h2:hover {
   content: "";
 }
 
+/* Button design */
+
 button {
   font-size: 32px;
   font-weight: 700;
@@ -118,6 +120,15 @@ button.learnMore {
   margin: auto;
 
 }
+
+button:hover {
+  background-color: black;
+  color: white;
+  transition: 0.5s;
+}
+
+
+/* End of button design */
 
 /* For columns */
 .col-1 {width: 8.33%;}
