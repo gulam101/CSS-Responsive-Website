@@ -137,7 +137,9 @@ div.test-image img {
   /* Quick solution to fix image not centering */
   padding-bottom: 35px;
   padding-left: 65px;
+  /* Horizontal, Vertica,l Blur, and Spread */
   box-shadow: -2px /*H*/ -2px /*V*/ 5px /*B*/ 2px /*S*/
+  rgba(0/*Sh*/,0/*BG*/,0/*BX*/,.15/*Op*/);
 }
 
 /* End of IOS logo icon */
