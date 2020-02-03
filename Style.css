@@ -96,6 +96,24 @@ form h2:hover {
   content: "";
 }
 
+button {
+  font-size: 32px;
+  font-weight: 700;
+  color: #fff;
+  background-color: #0069ff;
+  padding: 15px 60px;
+  display: block;
+  text-align: center;
+  margin: 5px;
+  border-radius: 20px;
+}
+
+button.learnMore {
+  display: block;
+  margin: auto;
+
+}
+
 /* For columns */
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
