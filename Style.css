@@ -130,26 +130,6 @@ button:hover {
 /* End of button design */
 
 
-/* Footer */
-
-footer.footerNav {
-  background-color: black;
-  color: white;
-  text-align: center;
-  font-size: 20px;
-}
-
-footer.footerNav h1 {
-  color: #fff;
-  font-size: 37px;
-  text-align: center;
-}
-
-footer.footerNav ul {
-  list-style: none;
-  text-align: center;
-}
-
 /* End Footer */
 
 /* IOS icon logo */
