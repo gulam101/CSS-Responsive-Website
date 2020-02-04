@@ -81,13 +81,13 @@ I did use a logo off the internet, which was non-copyright. This logo did have a
 
 - Description:
 
-This problem isn't big but I could change the font size and and add an animation to it and I could also work on changing the image for it because it doesn't fit and it has an odd shadow box that just doesn't fit with the image.
+This problem isn't big but I could change the font size and add an animation to it and I could also work on changing the image for it because it doesn't fit and it has an odd shadow box that just doesn't fit with the image.
 
 - Improvement ID: Navbar Background Color
 
 - Description: 
 
-I don't like the navbar background so I am going to change it to something else and maybe I might add in an animation so that it changes to another color when hovered over.
+I don't like the navbar background so I am going to change it to something else and maybe I might add in an animation so that it changes to another colour when hovered over.
 
 
 ### Resources:
