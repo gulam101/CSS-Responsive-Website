@@ -28,7 +28,9 @@ Improvements (placeholder)
 
 ### Description:
 
-This is a single responsive page design that just shows off some features that I had learnt in CSS and HTML. This point of this project was to make sure that the user can interacte with the page in mobile design. 
+This is a single responsive page design that just shows off some features that I had learnt in CSS and HTML. This point of this project was to make sure that the user can interacte with the page in mobile design. I had fun with this project because I took a break from the testing and had fun developing.
+
+There are a few things that I need to finish off but other than that I am happy creating this project.
 
 
 ### Prerequisites:
@@ -43,6 +45,8 @@ This is a single responsive page design that just shows off some features that I
 - JavaScript (Hamburger menu icon)
 
 ### Constraints:
+
+
 
 ### Improvements:
 
