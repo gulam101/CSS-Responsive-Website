@@ -65,7 +65,7 @@ Also in a certain height the video seems to overlap other elements and cause the
 - Improvement ID: Video Overlap
 - Description:
 
-= Improvement ID: New Logo
+- Improvement ID: New Logo
 - Description:
 
 - Improvement ID: Textbox and Image
