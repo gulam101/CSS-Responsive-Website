@@ -28,6 +28,8 @@ Improvements (placeholder)
 
 ### Description:
 
+This is a single responsive page design that just shows off some features that I had learnt in CSS and HTML. This point of this project was to make sure that the user can interacte with the page in mobile design. 
+
 
 ### Prerequisites:
 - Any Modern Browser (Preferably Chrome or Firefox)
