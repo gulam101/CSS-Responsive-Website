@@ -60,10 +60,13 @@ Also in a certain height the video seems to overlap other elements and cause the
 
 ### Improvements:
 - Improvement ID: Footer
-- Description:
+
+- Description: 
+
+I think the first thing I should do is re-add the footer back. I did have a problem with this because it wasn't working as intended. I know the fix but I deciced I would save this for another time. But I was thinking of maybe adding in some social media buttons that would help me style it or use some text and apply animation over it.
 
 - Improvement ID: Video Overlap
-- Description:
+- Description: 
 
 - Improvement ID: New Logo
 - Description:
