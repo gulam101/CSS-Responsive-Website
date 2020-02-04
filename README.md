@@ -59,7 +59,21 @@ I had problems creating the footer because when I tried to use the columns for i
 Also in a certain height the video seems to overlap other elements and cause the user to scroll to the the webpage/
 
 ### Improvements:
-Improvement ID: Footer
+- Improvement ID: Footer
+- Description:
+
+- Improvement ID: Video Overlap
+- Description:
+
+= Improvement ID: New Logo
+- Description:
+
+- Improvement ID: Textbox and Image
+- Description:
+
+- Improvement ID: Navbar Background Color
+- Description: 
+
 
 ### Resources:
 - https://www.youtube.com/watch?v=kPPit1B3h6g&list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz&index=23 (Tutorial)
