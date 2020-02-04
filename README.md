@@ -50,6 +50,8 @@ There are a few things that I need to finish off but other than that I am happy 
 - Understanding Unicode
 - JavaScript (Hamburger menu icon)
 
+Overall I had learned quite a few things and have a better understandsing when it comes to creating a project that would be similar. I can take what I have learned and put it into a different project so that I can improve what I know.
+
 ### Constraints:
 
 I had problems creating the footer because when I tried to use the columns for it, it kept on centering it in a different position.
