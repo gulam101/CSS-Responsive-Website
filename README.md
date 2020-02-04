@@ -4,7 +4,7 @@
 
 # Table of Contents:
 
-[Description](##Description)  
+[Description](#Description)  
 <a name="Description"/>
 
 [Prerequisites](#Prerequisites)  
