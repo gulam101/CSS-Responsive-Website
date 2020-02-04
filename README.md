@@ -1,6 +1,6 @@
 # CSS-Website
 
-### Responsive Website
+### Single Page Responsive Website
 
 # Table of Contents:
 
