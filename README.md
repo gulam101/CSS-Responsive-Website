@@ -30,13 +30,13 @@
 
 ### Description:
 
-This is a single responsive page design that just shows off some features that I had learnt in CSS and HTML. This point of this project was to make sure that the user can interacte with the page in mobile design. I had fun with this project because I took a break from the testing and had fun developing. I also practised my knowledge on HTML and CSS and if I ever need to create something then I can always refer back to this project. I used this a leearning curve and hopefully keep on building projects that will enhance my knowledge.
+This is a single responsive page design that just shows off some features that I had learnt in CSS and HTML. This point of this project was to make sure that the user can interact with the page in mobile design. I had fun with this project because I took a break from the testing and had fun developing. I also practised my knowledge on HTML and CSS and if I ever need to create something then I can always refer to this project. I used this a learning curve and hopefully keep on building projects that will enhance my knowledge.
 
-The user can interact with the menu bar and if they hover over the menu, it will change the text colour and it changes it within 0.3 seconds. If the user tries to click on the other options, it wont work because I wanted to create a single page that is responsive and that I can refer back to in case I forget anything in HTML. If the user switches into mobile view then they can also see that the menu disappears, except for the home button, and the hamburger menu icon will show. 
+The user can interact with the menu bar and if they hover over the menu, it will change the text colour and it changes it within 0.3 seconds. If the user tries to click on the other options, it won’t work because I wanted to create a single page that is responsive and that I can refer to in case I forget anything in HTML. If the user switches into mobile view then they can also see that the menu disappears, except for the home button, and the hamburger menu icon will show. 
 
-The hamburger menu icon will show the rest of the options in the menu. It was created using JavaScript usinf the script function. I also had fun play animations across certain areas on the webpage and my plan is to create an animation for the menu on the hamburger icon so that it plays a cool animation.
+The hamburger menu icon will show the rest of the options in the menu. It was created using JavaScript using the script function. I also had fun play animations across certain areas on the webpage and my plan is to create an animation for the menu on the hamburger icon so that it plays a cool animation.
 
-There are a few things that I need to finish off but other than that I am happy creating this project. I did have fun and have learned a lot of new techniques that I didn't know previosuly before. 
+There are a few things that I need to finish off but other than that I am happy creating this project. I did have fun and have learned a lot of new techniques that I didn't know 
 
 
 ### Prerequisites:
