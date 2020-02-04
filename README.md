@@ -99,7 +99,7 @@ I don't like the navbar background so I am going to change it to something else 
 - https://www.youtube.com/watch?v=wwDAvq9MZlQ (Random video)
 - https://www.cssmatic.com/box-shadow (CSS Shadow generator)
 - Google Images (For images)
-- https://www.lipsum.com/ (Dummy test)
+- https://www.lipsum.com/ (Dummy text)
 
 ### Screenshots:
 
