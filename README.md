@@ -54,9 +54,10 @@ Overall, I had learned quite a few things and have a better understanding when i
 
 ### Constraints:
 
-I had problems creating the footer because when I tried to use the columns for it, it kept on centering it in a different position.
+I had problems creating the footer because when I tried to use the columns for it, it kept on centring it in a different position.
 
-Also in a certain height the video seems to overlap other elements and cause the user to scroll to the the webpage/
+Also, in a certain height the video seems to overlap other elements and cause the user to scroll to the webpage.
+
 
 ### Improvements:
 - Improvement ID: Footer
