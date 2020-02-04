@@ -46,7 +46,9 @@ There are a few things that I need to finish off but other than that I am happy 
 
 ### Constraints:
 
+I had problems creating the footer because when I tried to use the columns for it, it kept on centering it in a different position.
 
+Also in a certain height the video seems to overlap other elements and cause the user to scroll to the the webpage/
 
 ### Improvements:
 
