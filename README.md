@@ -10,7 +10,7 @@
 [Prerequisites](#Prerequisites)  
 <a name="Prerequisites"/>
 
-[What I learnt](#What_I_Learnt)  
+[What I learnt](#What_I_Learned)  
 <a name="What_I_Learnt"/>
 
 [Constraints](#Constraints)  
