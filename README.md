@@ -94,6 +94,8 @@ This problem isn't big but I could change the font size and add an animation to 
 
 I don't like the navbar background so I am going to change it to something else and maybe I might add in an animation so that it changes to another colour when hovered over.
 
+### Development Changes:
+Development changes tracks the changes that happend to the project. It orders it by date and description.
 
 ### Resources:
 - https://www.youtube.com/watch?v=kPPit1B3h6g&list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz&index=23 (Tutorial)
