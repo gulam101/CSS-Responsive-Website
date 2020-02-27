@@ -10,7 +10,13 @@
 [Prerequisites](#Prerequisites)  
 <a name="Prerequisites"/>
 
-[What I learnt](#What_I_Learned)  
+[Installing the Tools](#Installing_the_Tools)  
+<a name="Installing_the_Tools"/>
+
+[Instructions](#Instructions)  
+<a name="Instructions"/>
+
+[What I learned](#What_I_Learned)  
 <a name="What_I_Learnt"/>
 
 [Constraints](#Constraints)  
@@ -44,7 +50,7 @@ There are a few things that I need to finish off but other than that I am happy 
 - Any IDE to view code (Preferably Atom or Brackets)
 - Access to developer tools on web browser
 
-### What I Learnt:
+### What I Learned:
 - Using Input keyword in CSS
 - Different ways of creating animations in CSS
 - Understanding Unicode
