@@ -62,7 +62,6 @@ There are a few things that I need to finish off but other than that I am happy 
 Overall, I had learned quite a few things and have a better understanding when it comes to creating a project that would be similar. I can take what I have learned and put it into a different project so that I can improve what I know. It does seem like I have a lot to learn and can't wait to dive into another project, so that I can pick up on new skills.
 
 ### Constraints:
-
 I had problems creating the footer because when I tried to use the columns for it, it kept on centring it in a different position.
 
 Also, in a certain height the video seems to overlap other elements and cause the user to scroll to the webpage.
