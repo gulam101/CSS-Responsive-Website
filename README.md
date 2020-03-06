@@ -16,7 +16,7 @@
 [Instructions](#Instructions)  
 <a name="Instructions"/>
 
-[What I learned](#What_I_Learned)  
+[What I learnt](#What_I_Learnt)  
 <a name="What_I_Learnt"/>
 
 [Constraints](#Constraints)  
@@ -53,7 +53,7 @@ There are a few things that I need to finish off but other than that I am happy 
 - Any IDE to view code (Preferably Atom or Brackets)
 - Access to developer tools on web browser
 
-### What I Learned:
+### What I Learnt:
 - Using Input keyword in CSS
 - Different ways of creating animations in CSS
 - Understanding Unicode
